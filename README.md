@@ -1,39 +1,34 @@
-# Project Name
+# Proxy server for AirFecBnB
 
-> Project description
+> Web Application for Booking Accommodations 
 
-## Related Projects
+## Demo
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+👉 Watch [Demo Video](https://www.youtube.com/watch?v=ZaMoZ0U07QY)
 
-## Table of Contents
-
-1. [Usage](#Usage)
-1. [Requirements](#requirements)
-1. [Development](#development)
+[![👉 Watch the video](https://media.giphy.com/media/2scmhVtxeTbb5dnej1/giphy.gif)](https://www.youtube.com/watch?v=ZaMoZ0U07QY)
 
 ## Usage
 
-> Some usage instructions
+- Built stateful React components with CSS modules to deliver modular UI with separation of concerns
 
-## Requirements
+- Converted booking module as a bottom bar when zooming out web page and showed up as a modal with CSS
 
-An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
+- Integrated 4 microservices via Express proxy server deployed with RDS and AWS Elastic Beanstalk 
 
-- Node 6.13.0
-- etc
+- Managed team Agile Workflow through Trello ticketing system to ensure non-conflicting goals
 
-## Development
 
-### Installing Dependencies
+## Built With
 
-From within the root directory:
+React 
 
-```sh
-npm install -g webpack
-npm install
-```
+Node.js 
 
+MySQL 
+
+CSS Module
+
+Bootstrap
+
+AWS (EBS, RDS)
