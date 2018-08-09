@@ -21,7 +21,7 @@
 
 ## Built With
 
-React 
+HTML
 
 Node.js 
 
